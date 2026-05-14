@@ -1,36 +1,392 @@
-# **DESCRIPCIÓN DEL PROYECTO**
-#### - Para entender el contexto ve este video: [CONTEXTO](https://youtu.be/zmYS1JDpzTE "CONTEXTO")
-[![](https://i.ibb.co/hLvjtBV/Diapositiva1.png)](https://youtu.be/zmYS1JDpzTE "![](https://i.ibb.co/hLvjtBV/Diapositiva1.png)")
-- Para que sepas como ejecutar el proyecto y que requieres para hacerlo ve este video: [EJECUTAR EL CODIGO](https://youtu.be/KvTDUzyX5NI "EJECUTAR EL CODIGO")
+<div align="center">
 
-## UDEMY
-- Después de ver los videos anteriores puedes decidir qué versiones deseas aprender: (Puedes adquirirlos también **desde** [codigo369.com](https://codigo369.com/ "codigo369.com"))
+<img width="220" src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" />
 
-[1. Versión 1 (Sin Fact. electrónica)](https://www.udemy.com/course/sistema-para-restaurante-en-c-y-sqlserver-2020/?referralCode=804F901D6B070A14B55B "1. Versión 1(Sin Fact. electrónica)")
-[2. Versión 2 (Con Fact. electrónica)](https://www.udemy.com/course/implementacion-de-facturacion-electronica-a-bumam-20/?couponCode=831878EDB46478246CAD "2. Versión 2 (Con Fact. electrónica)")
-[3. Versión 3 (Aplicativo para clientes)](https://www.udemy.com/course/nueva-app-movil-para-clientes-en-sistema-de-restaurante/?referralCode=253AFA231C8FEDB784AD "3. Versión 3 (Aplicativo para clientes)")
+# 🍽️ Sistema Restaurante POS
 
-### LOS GRUPOS TELEGRAM PARA APOYO SON LOS SIGUIENTES: 
-[- Grupo versión 1](https://t.me/restaurantecsharp "- Grupo versión 1")
-[- Grupo versión 2](https://t.me/bumam_2_0 "- Grupo versión 2")
-[- Grupo versión 3](https://t.me/appcliente "- Grupo versión 3")
-#### SÍGUENOS EN NUESTRAS REDES SOCIALES
-> [YouTube](https://www.youtube.com/c/Codigo369 "YouTube")
-[Facebook](https://www.facebook.com/codigo.369.official "Facebook")
-[Instagram](https://www.instagram.com/codigo369/ "Instagram")
+### Plataforma de gestión y facturación para restaurantes 🚀
 
-###### PANTALLAZOS DEL PROYECTO
-![](https://i.ibb.co/N1qhTCr/Diapositiva6.png)
+<p align="center">
+  <b>Sistema Restaurante POS</b> es una plataforma moderna desarrollada para administrar restaurantes, ventas, pedidos, clientes y facturación electrónica mediante una interfaz intuitiva, rápida y profesional.
+</p>
 
-![](https://i.ibb.co/znfBMQV/Diapositiva7.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLServer-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/POS-Restaurante-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Facturación-Electrónica-green?style=for-the-badge">
+</p>
 
-![](https://i.ibb.co/ymzXKbN/Diapositiva8.png)
+<p align="center">
+  <a href="#-acerca-del-proyecto">Acerca</a> •
+  <a href="#-características">Características</a> •
+  <a href="#-tecnologías-utilizadas">Tecnologías</a> •
+  <a href="#-instalación">Instalación</a> •
+  <a href="#-roadmap">Roadmap</a>
+</p>
 
-![](https://i.ibb.co/wzX9f6f/Diapositiva9.png)
+</div>
 
-![](https://i.ibb.co/wRcs2xG/127.png)
-###### Autor: Ing. Franklin J. Bustamante Alejandria
-##### Pagina web: [codigo369.com](https://codigo369.com/ "codigo369.com")
+---
 
-> ###### Nota: Se estará publicando versiones futuras con mejoras y mas módulos, se te agradece que aportes con opiniones o reportes errores que encuentres en el proyecto.Nota: Se estará publicando versiones futuras con mejoras y mas módulos, se te agradece que aportes con opiniones o reportes errores que encuentres en el proyecto.
-> # “CUALQUIERA PUEDE PROGRAMAR”
+# 🌌 Acerca del proyecto
+
+**Sistema Restaurante POS** es una solución empresarial enfocada en la administración completa de restaurantes y negocios gastronómicos.
+
+El sistema permite:
+
+- 🍔 Gestión de pedidos
+- 🧾 Facturación electrónica
+- 👥 Administración de clientes
+- 💰 Control de ventas
+- 📦 Gestión de inventario
+- 🏢 Administración de sucursales
+- 📊 Estadísticas y reportes
+- 🖨️ Impresión de tickets
+
+El proyecto fue desarrollado para practicar:
+
+- Desarrollo de sistemas POS
+- Arquitectura multicapa
+- SQL Server
+- Facturación electrónica
+- Gestión empresarial
+- Sistemas administrativos
+
+---
+
+# ✨ Características
+
+## 🍽️ Gestión de restaurante
+
+- 🪑 Control de mesas
+- 🍔 Gestión de menú
+- 📋 Administración de pedidos
+- 🧾 Comandas
+- ⏱️ Control de atención
+
+---
+
+## 💰 Ventas y facturación
+
+- 🧾 Facturación electrónica
+- 🖨️ Tickets de venta
+- 💳 Métodos de pago
+- 📄 Historial de ventas
+- 💵 Control de caja
+
+---
+
+## 📦 Inventario
+
+- 📋 CRUD de productos
+- 📦 Control de stock
+- 🏷️ Categorías
+- ⚠️ Alertas de inventario
+
+---
+
+## 👥 Gestión de usuarios
+
+- 🔐 Login y autenticación
+- 👨‍💼 Roles administrativos
+- 👥 Gestión de empleados
+- 📄 Control de accesos
+
+---
+
+## 📊 Dashboard administrativo
+
+- 📈 Estadísticas generales
+- 💰 Reportes financieros
+- 📦 Productos más vendidos
+- 👥 Gestión de clientes
+
+---
+
+# 🛠️ Tecnologías utilizadas
+
+## 💻 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+- C#
+- .NET
+- Arquitectura multicapa
+- APIs y servicios
+
+---
+
+## 🗄️ Base de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL Server
+- Procedimientos almacenados
+- SQL
+
+---
+
+## 🎨 Interfaz gráfica
+
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
+</p>
+
+- Windows Forms
+- Diseño POS
+- UI Administrativa
+
+---
+
+## 🐳 Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+- Git
+- GitHub
+- Visual Studio
+
+---
+
+# 📂 Estructura del proyecto
+
+```bash
+Sistema-Restaurante/
+│
+├── CapaDatos/
+│
+├── CapaNegocio/
+│
+├── CapaPresentacion/
+│
+├── ScriptsSQL/
+│
+├── Recursos/
+│
+└── README.md
+```
+
+---
+
+# ⚡ Instalación
+
+## 📋 Requisitos
+
+- Visual Studio
+- SQL Server
+- .NET Framework
+- Windows 10/11
+
+---
+
+# 🚀 Configuración del proyecto
+
+## 1️⃣ Clonar repositorio
+
+```bash
+git clone https://github.com/usuario/sistema-restaurante.git
+```
+
+---
+
+## 2️⃣ Abrir solución
+
+```bash
+SistemaRestaurante.sln
+```
+
+---
+
+## 3️⃣ Configurar base de datos
+
+- Restaurar la base de datos SQL Server
+- Ejecutar scripts incluidos
+- Configurar cadena de conexión
+
+---
+
+## 4️⃣ Ejecutar proyecto
+
+Desde Visual Studio:
+
+```bash
+F5
+```
+
+---
+
+# 🎥 Videos del proyecto
+
+## 📚 Contexto del sistema
+
+👉 https://youtu.be/zmYS1JDpzTE
+
+---
+
+## ⚙️ Cómo ejecutar el proyecto
+
+👉 https://youtu.be/KvTDUzyX5NI
+
+---
+
+# 📚 Versiones disponibles
+
+## 🧾 Versión 1
+
+Sistema restaurante sin facturación electrónica.
+
+---
+
+## ⚡ Versión 2
+
+Sistema restaurante con facturación electrónica.
+
+---
+
+## 📱 Versión 3
+
+Aplicación móvil para clientes.
+
+---
+
+# 📸 Vista previa
+
+<div align="center">
+
+<img width="1000" src="https://i.ibb.co/N1qhTCr/Diapositiva6.png" />
+
+<br><br>
+
+<img width="1000" src="https://i.ibb.co/znfBMQV/Diapositiva7.png" />
+
+<br><br>
+
+<img width="1000" src="https://i.ibb.co/ymzXKbN/Diapositiva8.png" />
+
+<br><br>
+
+<img width="1000" src="https://i.ibb.co/wzX9f6f/Diapositiva9.png" />
+
+<br><br>
+
+<img width="1000" src="https://i.ibb.co/wRcs2xG/127.png" />
+
+</div>
+
+---
+
+# 🧠 Objetivos del proyecto
+
+## 🎯 Aprender y practicar
+
+- Sistemas POS
+- SQL Server
+- C#
+- Arquitectura multicapa
+- Facturación electrónica
+- Gestión de restaurantes
+- Desarrollo empresarial
+
+---
+
+# 🌐 Comunidad y soporte
+
+## 💬 Grupos Telegram
+
+- 📌 Versión 1
+- 📌 Versión 2
+- 📌 Versión 3
+
+---
+
+## 📱 Redes sociales
+
+- ▶️ YouTube
+- 📘 Facebook
+- 📸 Instagram
+
+---
+
+# 🚧 Roadmap
+
+## 🔮 Próximas mejoras
+
+- ☁️ Deploy cloud
+- 📱 Aplicación móvil avanzada
+- 🤖 Reportes inteligentes
+- 📊 Dashboard moderno
+- 🌙 Dark mode
+- 💳 Integración de pagos online
+
+---
+
+# 🤝 Contribuciones
+
+Las contribuciones son bienvenidas ❤️
+
+## Cómo contribuir
+
+1. Fork del proyecto
+
+```bash
+git checkout -b feature/nueva-funcionalidad
+```
+
+2. Commit
+
+```bash
+git commit -m "✨ Nueva funcionalidad"
+```
+
+3. Push
+
+```bash
+git push origin feature/nueva-funcionalidad
+```
+
+4. Pull Request 🚀
+
+---
+
+# 👨‍💻 Autor
+
+<div align="center">
+
+## Ing. Franklin J. Bustamante Alejandria
+
+Desarrollador enfocado en sistemas empresariales, facturación electrónica y plataformas administrativas.
+
+### 🌐 codigo369.com
+
+</div>
+
+---
+
+# 🌟 Apoya el proyecto
+
+⭐ Dale una estrella  
+🍴 Haz fork  
+📢 Comparte el proyecto
+
+---
+
+# 📜 Licencia
+
+Proyecto educativo desarrollado para aprendizaje de sistemas POS, facturación electrónica y plataformas administrativas para restaurantes.
+
+---
+
+<div align="center">
+
+# 🍽️ Sistema Restaurante POS — administración moderna para negocios gastronómicos 🚀
+
+### “CUALQUIERA PUEDE PROGRAMAR”
+
+</div>
