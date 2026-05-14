@@ -158,7 +158,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del proyecto
 
 ```bash
-Sistema-Restaurante/
+POSRestaurante/
 │
 ├── CapaDatos/
 │
@@ -191,7 +191,7 @@ Sistema-Restaurante/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/sistema-restaurante.git
+git clone https://github.com/isairey/POSRestaurante.git
 ```
 
 ---
@@ -359,11 +359,11 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Ing. Franklin J. Bustamante Alejandria
+## Ing. Isai Reyes
 
 Desarrollador enfocado en sistemas empresariales, facturación electrónica y plataformas administrativas.
 
-### 🌐 codigo369.com
+### 🌐 https://isairey.github.io/Portafolio/
 
 </div>
 
