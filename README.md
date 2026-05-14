@@ -263,7 +263,7 @@ Aplicación móvil para clientes.
 
 <br><br>
 
-<img width="1000" src="https://i.ibb.co/wRcs2xG/127.png" />
+
 
 </div>
 
