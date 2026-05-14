@@ -220,19 +220,6 @@ Desde Visual Studio:
 F5
 ```
 
----
-
-# 🎥 Videos del proyecto
-
-## 📚 Contexto del sistema
-
-👉 https://youtu.be/zmYS1JDpzTE
-
----
-
-## ⚙️ Cómo ejecutar el proyecto
-
-👉 https://youtu.be/KvTDUzyX5NI
 
 ---
 
